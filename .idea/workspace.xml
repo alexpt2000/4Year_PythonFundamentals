@@ -11,8 +11,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python_fundamentals$2_CurrentTime.coverage" NAME="2_CurrentTime Coverage Results" MODIFIED="1506436461152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_fundamentals$4_Factorial_digit_sum.coverage" NAME="4_Factorial digit sum Coverage Results" MODIFIED="1506438291663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_fundamentals$4_Factorial_digit_sum.coverage" NAME="4_Factorial digit sum Coverage Results" MODIFIED="1506438868585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_fundamentals$3_FizzBuzz.coverage" NAME="3_FizzBuzz Coverage Results" MODIFIED="1506437346831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_fundamentals$5_Guessing_game.coverage" NAME="5_Guessing game Coverage Results" MODIFIED="1506439051240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -46,11 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4_Factorial digit sum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4_Factorial digit sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4_Factorial digit sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5_Guessing game.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5_Guessing game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -67,6 +78,7 @@
         <option value="$PROJECT_DIR$/2_CurrentTime.py" />
         <option value="$PROJECT_DIR$/3_FizzBuzz.py" />
         <option value="$PROJECT_DIR$/4_Factorial digit sum.py" />
+        <option value="$PROJECT_DIR$/5_Guessing game.py" />
       </list>
     </option>
   </component>
@@ -130,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4_Factorial digit sum">
+  <component name="RunManager" selected="Python.5_Guessing game">
     <configuration name="2_CurrentTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,16 +197,36 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
+    <configuration name="5_Guessing game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python fundamentals" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_Guessing game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.2_CurrentTime" />
       <item index="1" class="java.lang.String" itemvalue="Python.3_FizzBuzz" />
       <item index="2" class="java.lang.String" itemvalue="Python.4_Factorial digit sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.5_Guessing game" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.4_Factorial digit sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3_FizzBuzz" />
-        <item index="2" class="java.lang.String" itemvalue="Python.2_CurrentTime" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.5_Guessing game" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4_Factorial digit sum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3_FizzBuzz" />
+        <item index="3" class="java.lang.String" itemvalue="Python.2_CurrentTime" />
       </list>
     </recent_temporary>
   </component>
@@ -275,6 +307,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_Guessing game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding />
         </state>
       </provider>
