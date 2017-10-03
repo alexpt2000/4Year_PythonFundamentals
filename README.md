@@ -4,15 +4,15 @@
 
 - Install Git https://git-scm.com/downloads
 
-- Create a new directory somewhere, and clone the project by running from cmd (make sure that you are in the newly created directory first!):
+- Create a new directory somewhere, and clone the project by running from cmd:
 ```
 git clone https://github.com/alexpt2000gmit/4Year_PythonFundamentals.git
 ```
-- Having the latest python version might not be a good thing. https://www.python.org/downloads/
+- Having the latest python version. https://www.python.org/downloads/
 
 - In command line for windows and Terminal for Mac, type:
 ```
-python main.py
+python fileName.py
 ```
 
 
