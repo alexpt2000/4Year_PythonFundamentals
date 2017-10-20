@@ -1,4 +1,4 @@
-# 4YEAR_RESEARCH_METHODS_IN_COMPUTING_AND_IT
+# EMERGING TECHNOLOGIES
 
 # To rum, the code first is necessary take the following steeps:
 
